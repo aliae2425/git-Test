@@ -1,0 +1,6 @@
+<Window>
+    <StackPanel>
+        <TextBlock Text="Hello, World!" />
+        <Button Content="Click me!" click="test" />
+    </StackPanel>
+</Window>
